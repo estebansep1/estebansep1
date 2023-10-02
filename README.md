@@ -24,7 +24,7 @@ I'm eager to connect with fellow learners and developers. Feel free to reach out
 - Email: [tebansd@icloud.com](mailto:tebansd@icloud.com)
 - LinkedIn: [www.linkedin.com/in/esteban-sepulveda-a06789161](www.linkedin.com/in/esteban-sepulveda-a06789161)
 
-Thanks for visiting my GitHub profile, and let's continue this exciting journey in software development together! 🚀
+Thanks for visiting my GitHub profile!
 
 <!---
 estebansep1/estebansep1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
