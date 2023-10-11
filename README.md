@@ -24,8 +24,6 @@ I'm eager to connect with fellow learners and developers. Feel free to reach out
 - LinkedIn: [www.linkedin.com/in/esteban-sepulveda-a06789161](www.linkedin.com/in/esteban-sepulveda-a06789161)
 
 Thanks for visiting my GitHub profile!
-
-
 <!---
 estebansep1/estebansep1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
