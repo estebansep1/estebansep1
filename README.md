@@ -10,6 +10,7 @@ I have experience with various technologies related to software development:
 - **Backend Development**: I'm exploring the world of backend development using technologies like Node.js, Express, and MongoDB to create robust server-side applications.
 - **APIs**: I've started to understand how to build and use APIs to connect different parts of web applications.
 
+## 🌱 Currently Learning
 
 I'm actively expanding my skills, and here are some of the things I'm currently focused on:
 
@@ -21,9 +22,10 @@ I'm actively expanding my skills, and here are some of the things I'm currently 
 I'm eager to connect with fellow learners and developers. Feel free to reach out through:
 
 - Email: [tebansd@icloud.com](mailto:tebansd@icloud.com)
-- LinkedIn: [www.linkedin.com/in/esteban-sepulveda-a06789161](www.linkedin.com/in/esteban-sepulveda-a06789161)
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/esteban-sepulveda-a06789161)
 
 Thanks for visiting my GitHub profile!
+
 <!---
 estebansep1/estebansep1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
