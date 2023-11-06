@@ -31,6 +31,8 @@ Hello! I'm Esteban, and I'm on an exciting journey into the world of software de
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+<img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif?raw=true">
+
 ## 📫 How to Reach Me
 
 I'm eager to connect with fellow learners and developers. Feel free to reach out through:
