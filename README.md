@@ -38,7 +38,13 @@ I'm eager to connect with fellow learners and developers. Feel free to reach out
 
 ## 📊 GitHub Stats
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=estebansep1&show_icons=true"/>
+<div>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=estebansep1&show_icons=true&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=estebansep1&theme=tokyonight" alt="estebansep1" />
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=estebansep1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="estebansep1" />
+
 
 
 
