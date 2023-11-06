@@ -38,7 +38,10 @@ I'm eager to connect with fellow learners and developers. Feel free to reach out
 
 ## 📊 GitHub Stats
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=estebansep1&show_icons=true"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=estebansep1&show_icons=true"/>
+
+
+
 
 Thanks for visiting my GitHub profile!
 
