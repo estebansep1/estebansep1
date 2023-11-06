@@ -1,3 +1,5 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+
 # 👋 Hi, I'm Esteban
 
 Hello! I'm Esteban, and I'm on an exciting journey into the world of software development. I am currently enrolled in San Diego State University's Software Development bootcamp, which is teaching me some cool things about the world of computer science.
