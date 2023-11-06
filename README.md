@@ -36,6 +36,10 @@ I'm eager to connect with fellow learners and developers. Feel free to reach out
 - Email: [tebansd@icloud.com](mailto:tebansd@icloud.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/esteban-sepulveda-a06789161)
 
+## 📊 GitHub Stats
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=estebansep1&show_icons=true"/>
+
 Thanks for visiting my GitHub profile!
 
 <!---
