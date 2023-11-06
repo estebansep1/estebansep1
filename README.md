@@ -38,8 +38,8 @@ Hello! I'm Esteban, and I'm on an exciting journey into the world of software de
 
 I'm eager to connect with fellow learners and developers. Feel free to reach out through:
 
-- Email: [tebansd@icloud.com](mailto:tebansd@icloud.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/esteban-sepulveda-a06789161)
+ [![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tebansd@icloud.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-sepulveda-a06789161)
 
 ## 📊 GitHub Stats
 
