@@ -4,7 +4,7 @@
 
 Hello! I'm Esteban, and I'm on an exciting journey into the world of software development. I am currently enrolled in San Diego State University's Software Development bootcamp, which is teaching me some cool things about the world of computer science.
 
-## Technologies I know and have been introduced to
+## 🧑🏻‍💻 Technologies I know and have been introduced to
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
