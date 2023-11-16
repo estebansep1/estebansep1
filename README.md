@@ -45,6 +45,13 @@ I'm eager to connect with fellow learners and developers. Feel free to reach out
  [![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tebansd@icloud.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-sepulveda-a06789161)
 
+## 📂 Class Assignments
+
+Please note that some or most of the repositories in this profile are related to my coursework and class assignments from the Software Development bootcamp at San Diego State University. These projects are part of my learning journey and may not necessarily represent personal or independent projects.
+
+Feel free to explore and provide feedback on any aspect you find interesting! If you have questions about specific projects or would like more information, don't hesitate to reach out.
+
+
 ## 📊 GitHub Stats
 
 <div>
