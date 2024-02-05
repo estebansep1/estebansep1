@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Esteban
 
-Hello! I'm Esteban, and I'm on an exciting journey into the world of software development. I am currently enrolled in San Diego State University's Software Development bootcamp, which is teaching me some cool things about the world of computer science.
+Hello! I'm Esteban, and I'm on an exciting journey into the world of software development. I recently graduated from San Diego State University's Software Development bootcamp, which is tought me some cool things about the world of computer science.
 
 ## 🧑🏻‍💻 Skills Overview
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
